@@ -1,2 +1,28 @@
-# intro_to_algorithms
-Python Implementation of 'Intro to Algorithms' from MIT OpenCourseWare
+# Intro to Algorithms
+Python Implementation of 'MIT 6.046J: Intro to Algorithms' from MIT OpenCourseWare<br>
+[Link](http://www.snow.or.kr/lecture/applied_sciences/computer_science/532.html)(Korean Subtitle)
+
+다음 목차로 구성됩니다.
+1. 알고리즘 분석(Analysis of algorithms)
+2. 점근 표기법과 되풀이(Asymptotic Notation / Recurrences / Substitution, Master Method)
+3. 분할 해결법 (Divide-and-Conquer: Strassen, Fibonacci, Polynomial Multiplication)
+4. 퀵 정렬 (Quicksort, Randomized Algorithms)
+5. 정렬 하한계와 선형 시간 정렬 (Linear-time Sorting: Lower Bounds, Counting Sort, Radix Sort)
+6. 순서 통계량 (Order Statistics, Median)
+7. 해싱 I (Hashing, Hash Functions)
+8. 해싱 II (Universal Hashing, Perfect Hashing)
+9. 임의 구축 이진 검색 트리 (Relation of BSTs to Quicksort / Analysis of Random BST)
+10. 균형 검색 트리 (Red-black Trees, Rotations, Insertions, Deletions)
+11. 데이터 구조 증대 (Augmenting Data Structures, Dynamic Order Statistics, Interval Trees)
+12. 스킵 리스트 (Skip Lists)
+13. 상각 분석 (Amortized Algorithms, Table Doubling, Potential Method)
+14. 경쟁력 분석 (Competitive Analysis: Self-organizing Lists)
+15. 동적 프로그래밍 (Dynamic Programming, Longest Common Subsequence)
+16. 탐욕 알고리즘과 그래프 (Greedy Algorithms, Minimum Spanning Trees)
+17. 최단 경로 I (Shortest Paths I: Properties, Dijkstra's Algorithm, Breadth-first Search)
+18. 최단 경로 II (Shortest Paths II: Bellman-Ford, Linear Programming, Difference Constraints)
+19. 최단 경로 III (Shortest Paths III: All-pairs Shortests, Matrix Multiplication, Floyd-Warshall, Johnson)
+20. 심화 학습 (Advanced Topics)
+21. 심화 학습 (계속) (Advanced Topics (cont.))
+22. 심화 학습 (계속) (Advanced Topics (cont.))
+23. 심화 학습 (계속) (Advanced Topics (cont.))
