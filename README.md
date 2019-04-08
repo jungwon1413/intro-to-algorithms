@@ -3,7 +3,7 @@ Python Implementation of 'MIT 6.046J: Intro to Algorithms' from MIT OpenCourseWa
 [Link](http://www.snow.or.kr/lecture/applied_sciences/computer_science/532.html)(Korean Subtitle)
 
 다음 목차로 구성됩니다.
-1. 알고리즘 분석(Analysis of algorithms) [LINK](https://nbviewer.jupyter.org/github/jungwon1413/intro-to-algorithms/blob/master/Codes/Lec1.ipynb)
+1. 알고리즘 분석(Analysis of algorithms): [LINK](https://nbviewer.jupyter.org/github/jungwon1413/intro-to-algorithms/blob/master/Codes/Lec1.ipynb)
 2. 점근 표기법과 되풀이(Asymptotic Notation / Recurrences / Substitution, Master Method)
 3. 분할 해결법 (Divide-and-Conquer: Strassen, Fibonacci, Polynomial Multiplication)
 4. 퀵 정렬 (Quicksort, Randomized Algorithms)
