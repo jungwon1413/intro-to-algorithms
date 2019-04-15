@@ -1,6 +1,6 @@
 # MIT 6.006 Intro to Algorithms
 
-__WARNING: This is not MIT 6.046J, which is Design and Analysis of Algorithms__
+__WARNING: This is not MIT 6.046J, which is Design and Analysis of Algorithms__<br>
 (All Contents belong to [MITOpenCourseware](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/))
 
 
