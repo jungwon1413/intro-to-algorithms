@@ -1,0 +1,27 @@
+## Assignments
+
+- Assignment 1
+  - Asymptotic complexity
+  - Recurrence relations
+  - Peak finding
+- Assignment 2
+  - Fractal rendering
+  - digital circuit simulation
+- Assignment 3
+  - Range queries
+  - digital circuit layout
+- Assignment 4
+  - Hash functions
+  - Python dictionaries
+  - matching DNA sequences
+- Assignment 5
+  - The knight's Shield
+  - RSA public key encryption
+  - Image decryption
+- Assignment 6
+  - Social networks
+  - Rubik's Cube
+  - Dijkstra
+- Assignment 7
+  - Seam carving
+  - Stock purchasing and knapsack
